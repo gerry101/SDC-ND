@@ -3,7 +3,7 @@
 
 <img src="examples/laneLines_thirdPass.jpg" width="480" alt="Combined Image" />
 
-Project Writeup
+Project 
 ---
 
 The goals of this project were the following:
