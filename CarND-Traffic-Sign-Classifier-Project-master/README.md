@@ -4,7 +4,7 @@
 
 The Project
 ---
-The goals / steps of this project are the following:
+The goals / steps of this project were the following:
 * Load the data set
 * Explore, summarize and visualize the data set
 * Design, train and test a model architecture
